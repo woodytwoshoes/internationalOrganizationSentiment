@@ -38,13 +38,7 @@ I also seek ways of:
 2. Ensuring that the IO is indeed the subject of the title and not an incidental mention. The final goal is to ensure that the sentiment is TOWARDS the IO, and not AWAY from it directed at another subject.
 
 
-
-```python
-![]('All-the-news/EU.png')
-```
-
-    /bin/sh: 1: Syntax error: word unexpected (expecting ")")
-
+![title](EU.png)
 
 
 ```python
